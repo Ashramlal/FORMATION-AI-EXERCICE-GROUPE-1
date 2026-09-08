@@ -2,9 +2,9 @@
 Los 3 Desperados
 
 # Membres de l'équipe
-Nom:
-Prenom:
-Pays: 
+Nom: Alan
+Prenom: Lauwers
+Pays: Belgique
 Plus haut diplome:
 
 

@@ -5,7 +5,11 @@ Los 3 Desperados
 Nom: Alan
 Prenom: Lauwers
 Pays: Belgique
-Plus haut diplome:
+Plus haut diplome: MBA
+Nom: SARHAN
+Prenom: Ayman
+Pays: Belgique
+Plus haut diplome: Master
 
 
 

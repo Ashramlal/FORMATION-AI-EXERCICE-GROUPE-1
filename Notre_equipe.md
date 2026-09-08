@@ -2,10 +2,10 @@
 
 
 # Membres de l'équipe
-Nom: voila
-Prenom
-Pays:
-Plus haut diplome:
+Nom: SARHAN
+Prenom: Ayman
+Pays: Belgique
+Plus haut diplome: Master
 
 Nom: David
 Prenom:  De Prada

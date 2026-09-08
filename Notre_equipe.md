@@ -1,5 +1,5 @@
 # Nom de l'équipe:
-
+Los 3 Desperados
 
 # Membres de l'équipe
 Nom: SARHAN
@@ -11,6 +11,13 @@ Nom: David
 Prenom:  De Prada
 Pays: Espagner
 Plus haut diplome: +
+
+Nom: Alan
+Prenom: Lauwers
+Pays: Belgique
+Plus haut diplome: MBA
+
+
 
 
 
